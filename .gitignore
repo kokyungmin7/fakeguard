@@ -256,4 +256,14 @@ pyrightconfig.json
 *.wmv
 *.webm
 
+# Test
+test.py
+temp/
+
+# Mac
+.DS_Store
+
+# models
+model/*.pt
+
 # End of https://www.toptal.com/developers/gitignore/api/python,images,video
